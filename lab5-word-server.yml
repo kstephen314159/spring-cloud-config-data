@@ -37,3 +37,8 @@ spring:
   application:
     name: noun
 words: boat,book,vote,seat,backpack,partition,groundhog
+
+---
+spring:
+  application:
+    name: sentence
